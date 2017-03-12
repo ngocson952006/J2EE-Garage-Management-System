@@ -2,8 +2,6 @@ package business.service;
 
 import java.util.List;
 
-import business.entities.Mechanic;
-
 public interface GeneralService<T> {
 	/**
 	 * Find an entity by id
