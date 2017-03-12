@@ -1,8 +1,0 @@
-/applicationContext.xml
-/applicationContext_hib.xml
-/business/
-/jdbc.properties
-/rebel.xml
-/springOrmContext.xml
-/utils/
-/viewmodels/
